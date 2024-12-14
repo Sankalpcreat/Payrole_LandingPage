@@ -58,13 +58,13 @@ export function CTA() {
                   Partnerships
                 </p>
                 <h2 className="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">
-                  We're open to collaborate
+                  We are open to collaborate
                 </h2>
                 <Button 
                   variant="link" 
                   className="mt-4 w-fit p-0 text-white hover:text-white/80"
                 >
-                  Let's chat
+                  Lets chat
                   <ArrowRight className="ml-2 h-4 w-4" />
                 </Button>
               </div>

@@ -89,7 +89,7 @@ export function Testimonials() {
                     </div>
                   </div>
                   <blockquote className="text-base text-slate-600">
-                    "{testimonial.quote}"
+                    {testimonial.quote}
                   </blockquote>
                 </CardContent>
               </Card>

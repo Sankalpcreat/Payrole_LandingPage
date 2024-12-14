@@ -10,7 +10,7 @@ export function Hero() {
           <div className="grid gap-8 lg:grid-cols-2 lg:gap-16">
             <div className="flex flex-col justify-center">
               <h1 className="text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl lg:text-6xl">
-                Empowering payroll processors with the world's first AI platform
+                Empowering payroll processors with the worlds first AI platform
               </h1>
               <p className="mt-6 text-lg text-slate-600">
                 Save time, attract more clients, boost security with our AI solution.

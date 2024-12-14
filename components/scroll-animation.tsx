@@ -66,11 +66,7 @@ export const HoverImage = () => {
       }}
       className="overflow-hidden rounded-lg"
     >
-      <img
-        src="https://via.placeholder.com/400"
-        alt="Hover Example"
-        className="w-full h-auto"
-      />
+      
     </motion.div>
   );
 };
